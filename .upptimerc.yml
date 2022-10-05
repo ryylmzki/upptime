@@ -3,17 +3,23 @@ owner: ryylmzki # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: Klienten-Info
     url: https://www.klienten-info.at
-
+  - name: Klienten-Info KiAdmin
+    url: https:/kiadmin.klienten-info.at
+  - name: ASKG
+    url: https://www.askg.at
+  - name: Peterka
+    url: https://www.peterka.at
+  - name: Citytax
+    url: https://www.citytax.at
+  - name: Muhr Steuerberatung
+    url: https://www.muhr-steuerberatung.at/
+  - name: Marihart
+    url: https://www.marihart.at
+  - name: Alpha Consult
+    url: https://www.alpha-consult.at
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
