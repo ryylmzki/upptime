@@ -4,19 +4,19 @@
     "url": "https://www.klienten-info.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.klienten-info.at.ico",
     "slug": "klienten-info",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3491,
-    "timeDay": 2469,
-    "timeWeek": 3783,
-    "timeMonth": 3491,
-    "timeYear": 3491,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3484,
+    "timeDay": 2712,
+    "timeWeek": 3718,
+    "timeMonth": 3484,
+    "timeYear": 3484,
     "dailyMinutesDown": {
-      "2022-11-03": 2
+      "2022-11-03": 6
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://www.askg.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.askg.at.ico",
     "slug": "askg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3755,
-    "timeDay": 4009,
-    "timeWeek": 3681,
-    "timeMonth": 3755,
-    "timeYear": 3755,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3773,
+    "timeDay": 4181,
+    "timeWeek": 3765,
+    "timeMonth": 3773,
+    "timeYear": 3773,
     "dailyMinutesDown": {
-      "2022-11-03": 0
+      "2022-11-03": 4
     }
   },
   {
