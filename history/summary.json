@@ -4,19 +4,19 @@
     "url": "https://www.klienten-info.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.klienten-info.at.ico",
     "slug": "klienten-info",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3491,
     "timeDay": 2469,
     "timeWeek": 3783,
     "timeMonth": 3491,
     "timeYear": 3491,
     "dailyMinutesDown": {
-      "2022-11-03": 12
+      "2022-11-03": 2
     }
   },
   {
@@ -42,9 +42,9 @@
     "url": "https://www.askg.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.askg.at.ico",
     "slug": "askg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 3681,
     "timeMonth": 3755,
     "timeYear": 3755,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 0
+    }
   },
   {
     "name": "Peterka",
@@ -81,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.citytax.at.ico",
     "slug": "citytax",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 2716,
     "timeDay": 2744,
     "timeWeek": 2534,
