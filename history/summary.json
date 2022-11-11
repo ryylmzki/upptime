@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3316,
-    "timeDay": 1606,
-    "timeWeek": 2368,
-    "timeMonth": 2893,
-    "timeYear": 3316,
+    "time": 3298,
+    "timeDay": 2515,
+    "timeWeek": 2593,
+    "timeMonth": 2883,
+    "timeYear": 3298,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 603,
-    "timeDay": 713,
-    "timeWeek": 599,
-    "timeMonth": 606,
+    "timeDay": 600,
+    "timeWeek": 608,
+    "timeMonth": 607,
     "timeYear": 603,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3738,
-    "timeDay": 4287,
-    "timeWeek": 3669,
-    "timeMonth": 3747,
-    "timeYear": 3738,
+    "time": 3716,
+    "timeDay": 2867,
+    "timeWeek": 3556,
+    "timeMonth": 3746,
+    "timeYear": 3716,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 936,
-    "timeDay": 1044,
-    "timeWeek": 869,
+    "time": 933,
+    "timeDay": 814,
+    "timeWeek": 866,
     "timeMonth": 932,
-    "timeYear": 936,
+    "timeYear": 933,
     "dailyMinutesDown": {
       "2022-10-05": 36
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 2699,
-    "timeDay": 3048,
-    "timeWeek": 2618,
-    "timeMonth": 2709,
-    "timeYear": 2699,
+    "time": 2697,
+    "timeDay": 2596,
+    "timeWeek": 2648,
+    "timeMonth": 2720,
+    "timeYear": 2697,
     "dailyMinutesDown": {
       "2022-10-05": 61
     }
@@ -100,15 +100,15 @@
     "slug": "muhr-steuerberatung",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 6226,
-    "timeDay": 7220,
-    "timeWeek": 5717,
-    "timeMonth": 6201,
-    "timeYear": 6226,
+    "time": 6151,
+    "timeDay": 3156,
+    "timeWeek": 5729,
+    "timeMonth": 6065,
+    "timeYear": 6151,
     "dailyMinutesDown": {
       "2022-11-09": 21
     }
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 933,
-    "timeWeek": 861,
-    "timeMonth": 1007,
-    "timeYear": 1012,
+    "time": 1006,
+    "timeDay": 805,
+    "timeWeek": 845,
+    "timeMonth": 1009,
+    "timeYear": 1006,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1020,
-    "timeDay": 1042,
-    "timeWeek": 921,
+    "time": 1016,
+    "timeDay": 878,
+    "timeWeek": 922,
     "timeMonth": 1028,
-    "timeYear": 1020,
+    "timeYear": 1016,
     "dailyMinutesDown": {}
   }
 ]
