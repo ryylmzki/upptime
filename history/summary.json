@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3298,
-    "timeDay": 2515,
-    "timeWeek": 2593,
-    "timeMonth": 2883,
-    "timeYear": 3298,
+    "time": 3264,
+    "timeDay": 1684,
+    "timeWeek": 2425,
+    "timeMonth": 2892,
+    "timeYear": 3264,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 600,
-    "timeWeek": 608,
+    "time": 606,
+    "timeDay": 717,
+    "timeWeek": 652,
     "timeMonth": 607,
-    "timeYear": 603,
+    "timeYear": 606,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3716,
-    "timeDay": 2867,
-    "timeWeek": 3556,
-    "timeMonth": 3746,
-    "timeYear": 3716,
+    "time": 3724,
+    "timeDay": 4059,
+    "timeWeek": 3589,
+    "timeMonth": 3770,
+    "timeYear": 3724,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 933,
-    "timeDay": 814,
-    "timeWeek": 866,
-    "timeMonth": 932,
-    "timeYear": 933,
+    "time": 934,
+    "timeDay": 1000,
+    "timeWeek": 891,
+    "timeMonth": 930,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2022-10-05": 36
     }
@@ -79,15 +79,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.citytax.at.ico",
     "slug": "citytax",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 2697,
-    "timeDay": 2596,
-    "timeWeek": 2648,
-    "timeMonth": 2720,
+    "timeDay": 2723,
+    "timeWeek": 2699,
+    "timeMonth": 2721,
     "timeYear": 2697,
     "dailyMinutesDown": {
       "2022-10-05": 61
@@ -104,11 +104,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 6151,
-    "timeDay": 3156,
-    "timeWeek": 5729,
-    "timeMonth": 6065,
-    "timeYear": 6151,
+    "time": 6186,
+    "timeDay": 7614,
+    "timeWeek": 5769,
+    "timeMonth": 6071,
+    "timeYear": 6186,
     "dailyMinutesDown": {
       "2022-11-09": 21
     }
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 805,
-    "timeWeek": 845,
-    "timeMonth": 1009,
-    "timeYear": 1006,
+    "time": 1004,
+    "timeDay": 914,
+    "timeWeek": 858,
+    "timeMonth": 1008,
+    "timeYear": 1004,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1016,
-    "timeDay": 878,
-    "timeWeek": 922,
-    "timeMonth": 1028,
-    "timeYear": 1016,
+    "time": 1017,
+    "timeDay": 1039,
+    "timeWeek": 946,
+    "timeMonth": 1027,
+    "timeYear": 1017,
     "dailyMinutesDown": {}
   }
 ]
