@@ -4,10 +4,10 @@
     "url": "https://www.klienten-info.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.klienten-info.at.ico",
     "slug": "klienten-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3126,
@@ -15,17 +15,19 @@
     "timeWeek": 2350,
     "timeMonth": 2990,
     "timeYear": 3126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-20": 1
+    }
   },
   {
     "name": "Klienten-Info KiAdmin",
     "url": "https:/kiadmin.klienten-info.at",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "klienten-info-ki-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 636,
@@ -33,7 +35,9 @@
     "timeWeek": 817,
     "timeMonth": 637,
     "timeYear": 636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-20": 1
+    }
   },
   {
     "name": "ASKG",
