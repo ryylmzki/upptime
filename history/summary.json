@@ -10,11 +10,11 @@
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.91%",
-    "time": 3112,
-    "timeDay": 2107,
-    "timeWeek": 2354,
-    "timeMonth": 2972,
-    "timeYear": 3112,
+    "time": 3082,
+    "timeDay": 1882,
+    "timeWeek": 2348,
+    "timeMonth": 2897,
+    "timeYear": 3082,
     "dailyMinutesDown": {
       "2022-11-20": 60
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.91%",
-    "time": 634,
-    "timeDay": 791,
+    "time": 638,
+    "timeDay": 684,
     "timeWeek": 787,
-    "timeMonth": 635,
-    "timeYear": 634,
+    "timeMonth": 647,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2022-11-20": 60
     }
@@ -45,18 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.askg.at.ico",
     "slug": "askg",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.87%",
-    "time": 3624,
-    "timeDay": 3936,
-    "timeWeek": 3258,
-    "timeMonth": 3541,
-    "timeYear": 3624,
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.89%",
+    "time": 3619,
+    "timeDay": 3790,
+    "timeWeek": 3185,
+    "timeMonth": 3521,
+    "timeYear": 3619,
     "dailyMinutesDown": {
-      "2022-11-20": 9,
       "2022-11-14": 75
     }
   },
@@ -71,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 955,
-    "timeDay": 1361,
-    "timeWeek": 1090,
-    "timeMonth": 943,
-    "timeYear": 955,
+    "time": 954,
+    "timeDay": 917,
+    "timeWeek": 1087,
+    "timeMonth": 947,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2022-10-05": 36
     }
@@ -91,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 2740,
-    "timeDay": 3229,
-    "timeWeek": 2948,
-    "timeMonth": 2783,
-    "timeYear": 2740,
+    "time": 2739,
+    "timeDay": 2711,
+    "timeWeek": 2949,
+    "timeMonth": 2735,
+    "timeYear": 2739,
     "dailyMinutesDown": {
       "2022-10-05": 61
     }
@@ -106,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.muhr-steuerberatung.at.ico",
     "slug": "muhr-steuerberatung",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "99.66%",
-    "time": 6155,
-    "timeDay": 3235,
-    "timeWeek": 5959,
-    "timeMonth": 5896,
-    "timeYear": 6155,
+    "uptimeYear": "99.67%",
+    "time": 6179,
+    "timeDay": 7429,
+    "timeWeek": 5914,
+    "timeMonth": 5915,
+    "timeYear": 6179,
     "dailyMinutesDown": {
       "2022-11-14": 200,
       "2022-11-09": 21
@@ -132,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 1199,
-    "timeWeek": 1086,
-    "timeMonth": 946,
-    "timeYear": 1012,
+    "time": 1010,
+    "timeDay": 920,
+    "timeWeek": 1068,
+    "timeMonth": 950,
+    "timeYear": 1010,
     "dailyMinutesDown": {}
   },
   {
@@ -150,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1042,
-    "timeDay": 1611,
-    "timeWeek": 1216,
-    "timeMonth": 1008,
-    "timeYear": 1042,
+    "time": 1045,
+    "timeDay": 1175,
+    "timeWeek": 1215,
+    "timeMonth": 1019,
+    "timeYear": 1045,
     "dailyMinutesDown": {}
   }
 ]
