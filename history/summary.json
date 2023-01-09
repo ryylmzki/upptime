@@ -29,10 +29,10 @@
     "url": "https:/kiadmin.klienten-info.at",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "klienten-info-ki-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 768,
@@ -41,6 +41,7 @@
     "timeMonth": 943,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2023-01-09": 2,
       "2022-11-24": 21,
       "2022-11-20": 60
     }
@@ -51,18 +52,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.askg.at.ico",
     "slug": "askg",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "67.46%",
-    "uptimeWeek": "95.35%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.56%",
+    "uptimeDay": "65.36%",
+    "uptimeWeek": "95.05%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "99.56%",
     "time": 4686,
     "timeDay": 14356,
     "timeWeek": 9998,
     "timeMonth": 6606,
     "timeYear": 4686,
     "dailyMinutesDown": {
-      "2023-01-09": 468,
+      "2023-01-09": 499,
       "2022-12-04": 38,
       "2022-11-14": 75
     }
