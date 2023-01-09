@@ -4,10 +4,10 @@
     "url": "https://www.klienten-info.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.klienten-info.at.ico",
     "slug": "klienten-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.85%",
     "time": 3051,
@@ -16,6 +16,7 @@
     "timeMonth": 3188,
     "timeYear": 3051,
     "dailyMinutesDown": {
+      "2023-01-09": 2,
       "2022-12-15": 43,
       "2022-12-09": 42,
       "2022-12-04": 39,
@@ -51,9 +52,9 @@
     "slug": "askg",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
     "time": 3895,
     "timeDay": 9539,
@@ -61,7 +62,7 @@
     "timeMonth": 4435,
     "timeYear": 3895,
     "dailyMinutesDown": {
-      "2023-01-09": 50,
+      "2023-01-09": 55,
       "2022-12-04": 38,
       "2022-11-14": 75
     }
@@ -134,19 +135,19 @@
     "url": "https://www.marihart.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.marihart.at.ico",
     "slug": "marihart",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1236,
-    "timeDay": 820,
-    "timeWeek": 994,
-    "timeMonth": 1652,
-    "timeYear": 1236,
+    "time": 1232,
+    "timeDay": 812,
+    "timeWeek": 970,
+    "timeMonth": 1628,
+    "timeYear": 1232,
     "dailyMinutesDown": {
-      "2023-01-09": 0
+      "2023-01-09": 5
     }
   },
   {
